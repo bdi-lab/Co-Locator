@@ -1,6 +1,18 @@
 # Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs
 
-This is an official implementation of Co-Locator submitted to NeurIPS 2026. DO NOT DISTRIBUTE.
+This is the official implementation of the paper **"Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs"** accepted to the 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026).
+
+All codes are written by **Chanyoung Chung** ([chanyoung.chung@kaist.ac.kr](mailto:chanyoung.chung@kaist.ac.kr)).
+
+If you use this repository, please cite our paper.
+```bibtex
+@inproceedings{colocator,
+  author={Chanyoung Chung and Jeemin Kim and Joyce Jiyoung Whang},
+  title={Ask KG Agent: A Multi-Agent Framework for Code Localization Using Code and Knowledge Graphs},
+  year={2026},
+  booktitle={Proceedings of the 40th Annual Conference on Neural Information Processing Systems},
+}
+```
 
 ## Environmental Settings
 
