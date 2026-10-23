@@ -119,3 +119,7 @@ python postprocessing.py -d czlll/Loc-Bench_V1 -s test
 ```
 
 You should replace `OPENAI_API_KEY` in `main.py` with the actual OpenAI API key to use GPT-4o.
+
+## License
+
+This code is released under the **CC BY-NC-SA 4.0 license**.
