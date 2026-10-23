@@ -81,7 +81,7 @@ python run.py -d SWE-bench-Live/SWE-bench-Live -s lite
 python postprocessing.py -d SWE-bench-Live/SWE-bench-Live -s lite
 ```
 
-To run Co-Locator⁻ on SWE-bench-Live (lite), use the following commands in `./CoLocator/`:
+To run Co-Locator⁻ on LocBench, use the following commands in `./CoLocator/`:
 
 ```
 # Initial predictions with Retriever
